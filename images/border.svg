@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="179" height="42" viewBox="0 0 179 42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #32bbe3;
+        stroke: url(#linear-gradient-1);
+        stroke-linejoin: round;
+        stroke-width: 1px;
+        fill-opacity: 0;
+        fill-rule: evenodd;
+      }
+    </style>
+
+    <linearGradient id="linear-gradient-1" gradientUnits="userSpaceOnUse" x1="3.5" y1="21" x2="175.5" y2="21">
+      <stop offset="0" stop-color="#32bbe3"/>
+      <stop offset="1" stop-color="#8d8d8d"/>
+    </linearGradient>
+  </defs>
+  <path d="M21.000,3.500 L158.000,3.500 C167.665,3.500 175.500,11.335 175.500,21.000 C175.500,30.665 167.665,38.500 158.000,38.500 L21.000,38.500 C11.335,38.500 3.500,30.665 3.500,21.000 C3.500,11.335 11.335,3.500 21.000,3.500 Z" class="cls-1"/>
+</svg>
